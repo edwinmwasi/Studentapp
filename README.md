@@ -1,2 +1,2 @@
 # Studentapp
-Demo of Laravel 
+Demo of Laravel!
